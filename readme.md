@@ -8,8 +8,8 @@ Options:
 - create several images with different sizes from one
 - add other size of a result image
 
-Main view:
-![Detail View](/doc/mainview.png)
+# View
+![Main View](/doc/mainview.png)
 
-Main view with opened settings menu:
+# View with opened settings menu
 ![Detail View](/doc/menusettings.png)
